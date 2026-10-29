@@ -1,0 +1,19 @@
+name: organoid-ofe
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.24.*
+  - pandas=2.0.*
+  - scipy=1.10.*
+  - scikit-image=0.21.*
+  - opencv=4.8.*
+  - matplotlib=3.7.*
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - cellpose==2.2.3
+      - pyclesperanto-prototype==0.24.4
+      - napari-segment-blobs-and-things-with-membranes==0.3.8
