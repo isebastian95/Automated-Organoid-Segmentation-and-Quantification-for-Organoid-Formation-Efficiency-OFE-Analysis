@@ -156,13 +156,17 @@ The current notebook provides **candidate object counts**, not seeded-cell count
 - Move configurable parameters and input/output paths into a settings file.
 - Pin and test dependencies and add example data that can be shared publicly.
 
-## Author and attribution
+## Author and Collaboration
 
-**Ivey Sebastian** — Scientific Computing Facility, Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG), Dresden.
+**Ivey Sebastian** — Computational image-analysis workflow development, including preprocessing, segmentation, batch processing, and quantitative feature extraction.
 
-Notebook: **`Jinia_organoids_v1_BATCH_03122025.ipynb`**, version **v1.0beta (December 2025)**. The notebook identifies **Jinia Lilianty** as the intended collaborator/user of the analysis.
+**Dr. Jinia Lilianty** — Postdoctoral researcher in the **Meri Huch research group**; research collaborator on the organoid formation efficiency analysis and development of the analysis workflow.
 
-This repository documents a computational image-analysis workflow. Before making source images, experimental data, or unpublished findings public, confirm the relevant permissions and attribution requirements.
+### Project Collaboration
+
+This image-analysis pipeline was developed collaboratively to address the challenges of quantifying organoid formation from heterogeneous, low-resolution stereomicroscopy images.
+
+The project combines biological research expertise with computational image analysis to establish a workflow for automated organoid detection, segmentation, and quantitative characterization.
 
 ## Project status
 
